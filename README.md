@@ -24,7 +24,9 @@ pip install -r requirements.txt
 # Execution
 
 Example usage: 
+```
 python3 getdiskusage.py /tmp
+```
 
 # Description for parameters
 Input information requires mountpath
