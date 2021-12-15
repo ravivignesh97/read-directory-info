@@ -83,9 +83,9 @@ python3 -m unittest test_getdiskusage
 
 # Reference
 
-https://docs.python.org/3/library/glob.html
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/library/subprocess.html
+- https://docs.python.org/3/library/glob.html
+- https://docs.python.org/3/library/argparse.html
+- https://docs.python.org/3/library/subprocess.html
 
 
 
