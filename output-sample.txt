@@ -1,0 +1,34 @@
+
+
+-----------Input request information-------
+Mount Path: /tmp
+{
+    "files": [
+        {
+            "/tmp/fseventsd-uuid": "8"
+        },
+        {
+            "/tmp/com.google.Keystone": "0"
+        },
+        {
+            "/tmp/powerlog": "0"
+        },
+        {
+            "/tmp/com.apple.launchd.7ka0E27qoc": "0"
+        },
+        {
+            "/tmp/test1": "8"
+        },
+        {
+            "/tmp/test3": "8"
+        },
+        {
+            "/tmp/test2": "8"
+        }
+    ],
+    "mount": false
+}
+------Script completed--------
+
+
+
