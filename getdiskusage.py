@@ -51,7 +51,7 @@ if __name__ == '__main__':
         args = parser.parse_args()
         print("\n")
         print("-----------Input request information-------")
-        print("Mouth Path: "+str(args.folderpath))
+        print("Mount Path: "+str(args.folderpath))
         folderpath = args.folderpath
         if check_valid_folder_path(folderpath):
             pass
