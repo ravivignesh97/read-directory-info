@@ -3,8 +3,7 @@ read-directory-info
 
 ### Description
 
-This script helps to return the disk utilization information from the mouthpath/folderpath
-
+This script helps to return the disk used information in bytes from the mouthpath/folderpath. If the result, has the key as "mount" and value as "true" then it is mouth directory else it can be folder path.
 
 
 # Creating pyenv
