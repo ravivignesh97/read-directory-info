@@ -37,6 +37,7 @@ Input information requires mountpath
 ```
 
 # Output
+
 ```
 -----------Input request information-------
 Mouth Path: /tmp
@@ -64,16 +65,21 @@ Mouth Path: /tmp
             "/tmp/test2": "8"
         }
     ],
-    "mount": false
+    "mount": true
 }
 ------Script completed--------
 ```
+## Output file link
+[output-sample.txt](output-sample.txt)
+
 
 # Run unit testing 
 ```
-python3 -m unittest test_getdiskusage > test-output-sample.txt &
+python3 -m unittest test_getdiskusage
 ```
 
+## Output of Unit tests
+[test-output-sample.txt](test-output-sample.txt)
 
 # Reference
 
